@@ -1,8 +1,5 @@
 def main():
-    print('Hi')
-    print('changed-')
-    print('from github')
-    print('dfgdf')
+    print('My first git-repo')
 
 
 if __name__ == '__main__':
